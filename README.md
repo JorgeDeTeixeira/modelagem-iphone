@@ -45,7 +45,7 @@ O projeto é composto pelas seguintes partes:
 
 Abaixo está o diagrama UML que representa a modelagem do iPhone:
 
-![Diagrama UML do iPhone](images/Main.PNG)
+![Diagrama UML do iPhone](images/Main.jpg)
 
 # Considerações finais
 
